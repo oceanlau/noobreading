@@ -1,8 +1,12 @@
 # Art in the Stone Age
 
+**Makapansgat pebble**
+
 ![A pebble resembling a face, Makapansgat in South Africa, 3,000,000 BCE](../../.gitbook/assets/image%20%281%29.png)
 
 Though it is not manufactured but naturely formed, it is the earliest evidence of human recognition of pictorial image if not art.
+
+People usually divide Stone Age into 3 periods by the development of stone implements. Another division is based on food source, from gathering to production.
 
 ## Paleolithic
 
@@ -10,29 +14,31 @@ Though it is not manufactured but naturely formed, it is the earliest evidence o
 
 ### Africa
 
-![Painted stone plaques, animal facing left, from the Apollo 11 Cave, Namibia, Africa, ca. 23,000 BCE. Charcoal on stone, 5&quot; &#xD7; 4 14 &quot;. State Museum of Namibia, Windhoek.](../../.gitbook/assets/image%20%2810%29.png)
+![Painted stone plaques, animal facing left, from the Apollo 11 Cave, Namibia, Africa, ca. 23,000 BCE. Charcoal on stone, 5&quot; &#xD7; 4 14 &quot;. State Museum of Namibia, Windhoek.](../../.gitbook/assets/image%20%2812%29.png)
 
 ### Europe
 
-One of the oldest sculptures ever discovered:
+One of the oldest sculptures ever discovered: **Lion-man**
 
 ![Human with feline \(lion?\) head, restored view, cave at Hohlenstein-Stadel, Germany, ca. 40,000&#x2013;35,000 BCE. Woolly mammoth ivory, 11 58 &quot; high. Ulmer Museum, Ulm.](../../.gitbook/assets/image%20%287%29.png)
 
-Experts estimate this ivory figure required about 400 hours \(two months\) of skilled work. Below are some other famous sculptures:
+Experts estimate this ivory figure required about 400 hours \(two months\) of skilled work. 
+
+**Venus of Willendorf**
 
 ![Nude woman \(Venus of Willendorf \), from Willendorf, Austria, ca. 28,000&#x2013;25,000 BCE. Limestone, 4 14 &quot; high. Naturhistorisches Museum, Vienna.](../../.gitbook/assets/image%20%285%29.png)
 
-![head of a woman\(?\), Brassempouy, ca. 25,000&#x2013;20,000 BCE. Ivory. Preserved in the Mus&#xE9;e d&apos;Arch&#xE9;ologie Nationale at Saint-Germain-en-Laye, near Paris](../../.gitbook/assets/image%20%289%29.png)
+![head of a woman\(?\), Brassempouy, ca. 25,000&#x2013;20,000 BCE. Ivory. Preserved in the Mus&#xE9;e d&apos;Arch&#xE9;ologie Nationale at Saint-Germain-en-Laye, near Paris](../../.gitbook/assets/image%20%2811%29.png)
 
 Also important in Paleolithic art is the over 200 sites of painted caves. Some of the most famouts caves:
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
-Negtive hand prints:
+Negtive hand prints: **Pech-Merle cave**
 
 ![Spotted horses and negative hand imprints, wall painting in the cave at Pech-Merle, France, ca. 23,000&#x2013; 22,000 BCE. 11&apos; 2&quot; long.](../../.gitbook/assets/image%20%284%29.png)
 
-Most animals in Paleolithic are painted in strict profile view. But the bulls from Lascaux are using composite view: horns from the front so both horns are shown, rest of the body in profile.
+Most animals in Paleolithic are painted in strict profile view. But the bulls from **Lascaux cave** are using composite view: horns from the front so both horns are shown, rest of the body in profile.
 
 ![Left wall of the Hall of Bulls, Lascaux II \(replica of the original cave, which is closed to the public\), France, original cave: c. 16,000-14,000 BCE. Largest bull 11&apos;6&apos;&apos; long.](../../.gitbook/assets/image%20%286%29.png)
 
@@ -42,10 +48,31 @@ First appearance of man \(as opposed to woman\) in the history of art. Bird-face
 
 Check out the cool guide tour: [https://archeologie.culture.fr/lascaux/en](https://archeologie.culture.fr/lascaux/en).
 
+## Meolithic and Neolithic
+
+9000 BCE - 8000 BCE are a transition period from Paleolithic to Neolithic, called Meolithic. Around 9000 BCE climate warmed. The sea level rose more than 300 feet, separating England from continental Europe, and Spain from Africa. The reindeer migrated north, and the woolly mammoth disappeared. Food gathering intensified and dogs are tamed.
+
+Then it's 8000 BCE - 2300 BCE the Neolithic period. Agriculture and livestock became humankind’s major food sources.
+
+### Anatolia and Mesopotamia
+
+The oldest known settled communities are here.
+
+![](../../.gitbook/assets/screen-shot-2020-12-19-at-10.02.42-pm.png)
+
+**Göbekli Tepe:** The oldest temple discovered.
+
+![ Go&#x308;bekli Tepe, ca. 9000 BCE](../../.gitbook/assets/image%20%289%29.png)
+
+Many of these T-shaped pillars:
+
+![T-shaped pillars with animal reliefs, Go&#x308;bekli Tepe, ca. 9000 BCE ](../../.gitbook/assets/image%20%288%29.png)
+
 Image Credits:
 
 * [Don Hitchcock](https://www.donsmaps.com/)
 * [SmartHistory](https://smarthistory.org)
+* [UNESCO World Heritage Convention](https://whc.unesco.org/)
 
 
 
