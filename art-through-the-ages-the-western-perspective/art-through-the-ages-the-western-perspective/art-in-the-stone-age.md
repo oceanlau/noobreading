@@ -34,7 +34,7 @@ Experts estimate this ivory figure required about 400 hours \(two months\) of sk
 
 Also important in Paleolithic art is the over 200 sites of painted caves. Some of the most famouts caves:
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![Paleolithic France and Spain](../../.gitbook/assets/image%20%2817%29.png)
 
 Negtive hand prints: **Pech-Merle cave**
 
@@ -52,7 +52,7 @@ Check out the cool guide tour: [https://archeologie.culture.fr/lascaux/en](https
 
 Maybe the oldest cave found: **Chauvet Cave**. Advanced art style.
 
-![Aurochs, horses, and rhinoceroses, wall painting in the Chauvet Cave, Vallon-Pont- d&#x2019;Arc, France, ca. 30,000&#x2013;28,000 or ca. 15,000&#x2013;13,000 BCE. Right rhinoceros 3&apos; 4&quot; long.](../../.gitbook/assets/image%20%2818%29.png)
+![Aurochs, horses, and rhinoceroses, wall painting in the Chauvet Cave, Vallon-Pont- d&#x2019;Arc, France, ca. 30,000&#x2013;28,000 or ca. 15,000&#x2013;13,000 BCE. Right rhinoceros 3&apos; 4&quot; long.](../../.gitbook/assets/image%20%2813%29.png)
 
 ## Meolithic and Neolithic
 
@@ -64,7 +64,7 @@ Then it's 8000 BCE - 2300 BCE the Neolithic period. Agriculture and livestock be
 
 The oldest known settled communities are here.
 
-![](../../.gitbook/assets/screen-shot-2020-12-19-at-10.02.42-pm.png)
+![Neolithic Anatolia and Mesopotamia](../../.gitbook/assets/screen-shot-2020-12-19-at-10.02.42-pm.png)
 
 **Göbekli Tepe:** The oldest temple discovered.
 
@@ -86,7 +86,7 @@ At Ain Ghazal, three dozen of these plaster statuettes and busts are found:
 
 At Çatal Höyük, many of these interesting figurines are found:
 
-![Seated mother goddess figurine \(head was restored.\), C&#x327;atal Ho&#x308;yu&#x308;k, Tureky, ca. 5800 BCE. Made out of clay, height 16.5 cm \(without head\).](../../.gitbook/assets/image%20%2817%29.png)
+![Seated mother goddess figurine \(head was restored.\), C&#x327;atal Ho&#x308;yu&#x308;k, Tureky, ca. 5800 BCE. Made out of clay, height 16.5 cm \(without head\).](../../.gitbook/assets/image.png)
 
 Also the wall paintings here are very different from Paleolithic paintings. Human figure appears much more:  
 
