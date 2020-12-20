@@ -91,10 +91,10 @@ First landscape painting:
 
 No town of similar scale discovered. But many megalithic \(great stones\) architectures exist:
 
-* Newgrange tomb, Newgrange, Ireland, ca. 3200-2500 BCE.
-* Skara Brae village, Skara Brae, Orkney Islands, ca. 3100-2500 BCE. UK.
-* Hagar Qim temple, Malta, ca.3200-2500 BCE
-* Stonehenge, Salisbury Plain, Wiltshire, England, ca.2550-1600 BCE. UK.
+* **Newgrange tomb**, Newgrange, Ireland, ca. 3200-2500 BCE.
+* **Skara Brae village**, Skara Brae, Orkney Islands, ca. 3100-2500 BCE. UK.
+* **Hagar Qim temple**, Malta, ca.3200-2500 BCE
+* **Stonehenge**, Salisbury Plain, Wiltshire, England, ca.2550-1600 BCE. UK.
 
 
 
