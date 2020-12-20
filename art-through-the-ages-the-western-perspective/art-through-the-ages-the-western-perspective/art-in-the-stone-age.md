@@ -87,6 +87,17 @@ First landscape painting:
 
 ![Landscape with town and volcanic eruption\(?\), wall painting in situ \(top\) and watercolor copy \(bottom\), from level VII, C&#x327;atal Ho&#x308;yu&#x308;k, Turkey, ca. 6150 BCE.](../../.gitbook/assets/image%20%2815%29.png)
 
+### Europe
+
+No town of similar scale discovered. But many megalithic \(great stones\) architectures exist:
+
+* Newgrange tomb, Newgrange, Ireland, ca. 3200-2500 BCE.
+* Skara Brae village, Skara Brae, Orkney Islands, ca. 3100-2500 BCE. UK.
+* Hagar Qim temple, Malta, ca.3200-2500 BCE
+* Stonehenge, Salisbury Plain, Wiltshire, England, ca.2550-1600 BCE. UK.
+
+
+
 Image Credits:
 
 * [Wikipedia](https://www.wikipedia.org/)
