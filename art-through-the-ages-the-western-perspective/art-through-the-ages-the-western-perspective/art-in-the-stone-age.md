@@ -50,6 +50,10 @@ First appearance of man \(as opposed to woman\) in the history of art. Bird-face
 
 Check out the cool guide tour: [https://archeologie.culture.fr/lascaux/en](https://archeologie.culture.fr/lascaux/en).
 
+Maybe the oldest cave found: **Chauvet Cave**. Advanced art style.
+
+![Aurochs, horses, and rhinoceroses, wall painting in the Chauvet Cave, Vallon-Pont- d&#x2019;Arc, France, ca. 30,000&#x2013;28,000 or ca. 15,000&#x2013;13,000 BCE. Right rhinoceros 3&apos; 4&quot; long.](../../.gitbook/assets/image%20%2818%29.png)
+
 ## Meolithic and Neolithic
 
 9000 BCE - 8000 BCE are a transition period from Paleolithic to Neolithic, called Meolithic. Around 9000 BCE climate warmed. The sea level rose more than 300 feet, separating England from continental Europe, and Spain from Africa. The reindeer migrated north, and the woolly mammoth disappeared. Food gathering intensified and dogs are tamed.
@@ -78,9 +82,13 @@ Some famous settlements:
 
 At Ain Ghazal, three dozen of these plaster statuettes and busts are found:
 
-![Human figure, from Ain Ghazal, Jor- dan, ca. 6750&#x2013;6250 bce. Plaster, painted and inlaid with bitumen, 3&apos; 5 38&quot; high. Muse&#x301;e du Louvre, Paris.](../../.gitbook/assets/image%20%282%29.png)
+![Human figure, from Ain Ghazal, Jordan, ca. 6750&#x2013;6250 bce. Plaster, painted and inlaid with bitumen, 3&apos; 5 38&quot; high. Muse&#x301;e du Louvre, Paris.](../../.gitbook/assets/image%20%282%29.png)
 
-At Çatal Höyük, the wall paintings are very different from Paleolithic paintings. Human figure appears much more:  
+At Çatal Höyük, many of these interesting figurines are found:
+
+![Seated mother goddess figurine \(head was restored.\), C&#x327;atal Ho&#x308;yu&#x308;k, Tureky, ca. 5800 BCE. Made out of clay, height 16.5 cm \(without head\).](../../.gitbook/assets/image%20%2817%29.png)
+
+Also the wall paintings here are very different from Paleolithic paintings. Human figure appears much more:  
 
 
 ![Deer hunt, detail of a wall painting from level III, C&#x327;atal Ho&#x308;yu&#x308;k, Turkey, ca. 5750 BCE. Museum of Anatolian Civilization, Ankara, Turkey.](../../.gitbook/assets/image%20%285%29.png)
@@ -94,9 +102,11 @@ First landscape painting:
 No town of similar scale discovered. But many megalithic \(great stones\) architectures exist:
 
 * **Newgrange tomb**, Newgrange, Ireland, ca. 3200-2500 BCE.
-* **Skara Brae village**, Skara Brae, Orkney Islands, ca. 3100-2500 BCE. UK.
+* **Skara Brae village**, Skara Brae, Orkney Islands, UK, ca. 3100-2500 BCE.
 * **Hagar Qim temple**, Malta, ca.3200-2500 BCE
-* **Stonehenge**, Salisbury Plain, Wiltshire, England, ca.2550-1600 BCE. UK.
+* **Stonehenge**, Salisbury Plain, Wiltshire, England, UK, ca.2550-1600 BCE.
+
+Both at Hagar Qim and Stonehenge, lots of post-and-lintel styles are used. 3 stones, 2 vertical posts and 1 horizonal lintel, formed an arch.
 
 
 
@@ -104,7 +114,7 @@ Image Credits:
 
 * [Wikipedia](https://www.wikipedia.org/)
 * [Don Hitchcock](https://www.donsmaps.com/)
-* [SmartHistory](https://smarthistory.org)
+* [SmartHistory](https://smarthistory.org) \(Fantastic site for a systematic art history education\)
 * [UNESCO World Heritage Convention](https://whc.unesco.org/)
 * [http://users.stlcc.edu/mfuller/catalhuyuk.html](http://users.stlcc.edu/mfuller/catalhuyuk.html)
 * [http://www.sci-news.com/archaeology/science-catalhoyuk-map-mural-volcanic-eruption-01681.html](http://www.sci-news.com/archaeology/science-catalhoyuk-map-mural-volcanic-eruption-01681.html)
