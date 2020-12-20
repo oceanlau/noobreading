@@ -14,6 +14,8 @@ People usually divide Stone Age into 3 periods by the development of stone imple
 
 ### Africa
 
+More yet to be found.
+
 ![Painted stone plaques, animal facing left, from the Apollo 11 Cave, Namibia, Africa, ca. 23,000 BCE. Charcoal on stone, 5&quot; &#xD7; 4 14 &quot;. State Museum of Namibia, Windhoek.](../../.gitbook/assets/image%20%2816%29.png)
 
 ### Europe
@@ -28,7 +30,7 @@ Experts estimate this ivory figure required about 400 hours \(two months\) of sk
 
 ![Nude woman \(Venus of Willendorf \), from Willendorf, Austria, ca. 28,000&#x2013;25,000 BCE. Limestone, 4 14 &quot; high. Naturhistorisches Museum, Vienna.](../../.gitbook/assets/image%20%287%29.png)
 
-![head of a woman\(?\), Brassempouy, ca. 25,000&#x2013;20,000 BCE. Ivory. Preserved in the Mus&#xE9;e d&apos;Arch&#xE9;ologie Nationale at Saint-Germain-en-Laye, near Paris](../../.gitbook/assets/image%20%2814%29.png)
+![Head of a woman\(?\), Brassempouy, ca. 25,000&#x2013;20,000 BCE. Ivory. Preserved in the Mus&#xE9;e d&apos;Arch&#xE9;ologie Nationale at Saint-Germain-en-Laye, near Paris](../../.gitbook/assets/image%20%2814%29.png)
 
 Also important in Paleolithic art is the over 200 sites of painted caves. Some of the most famouts caves:
 
