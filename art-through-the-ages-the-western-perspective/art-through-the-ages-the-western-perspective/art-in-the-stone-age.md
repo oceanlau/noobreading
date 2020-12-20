@@ -1,6 +1,6 @@
 # Art in the Stone Age
 
-**Makapansgat pebble**
+#### **Makapansgat pebble**
 
 ![A pebble resembling a face, Makapansgat in South Africa, 3,000,000 BCE](../../.gitbook/assets/image%20%281%29.png)
 
@@ -14,19 +14,23 @@ People usually divide Stone Age into 3 periods by the development of stone imple
 
 ### Africa
 
+#### Apollo 11 Cave
+
 More yet to be found.
 
 ![Painted stone plaques, animal facing left, from the Apollo 11 Cave, Namibia, Africa, ca. 23,000 BCE. Charcoal on stone, 5&quot; &#xD7; 4 14 &quot;. State Museum of Namibia, Windhoek.](../../.gitbook/assets/image%20%2816%29.png)
 
 ### Europe
 
-One of the oldest sculptures ever discovered: **Lion-man**
+#### Lion-man
+
+One of the oldest sculptures ever discovered.
 
 ![Human with feline \(lion?\) head, restored view, cave at Hohlenstein-Stadel, Germany, ca. 40,000&#x2013;35,000 BCE. Woolly mammoth ivory, 11 58 &quot; high. Ulmer Museum, Ulm.](../../.gitbook/assets/image%20%289%29.png)
 
 Experts estimate this ivory figure required about 400 hours \(two months\) of skilled work. 
 
-**Venus of Willendorf**
+#### **Venus of Willendorf**
 
 ![Nude woman \(Venus of Willendorf \), from Willendorf, Austria, ca. 28,000&#x2013;25,000 BCE. Limestone, 4 14 &quot; high. Naturhistorisches Museum, Vienna.](../../.gitbook/assets/image%20%287%29.png)
 
@@ -34,13 +38,17 @@ Experts estimate this ivory figure required about 400 hours \(two months\) of sk
 
 Also important in Paleolithic art is the over 200 sites of painted caves. Some of the most famouts caves:
 
-![Paleolithic France and Spain](../../.gitbook/assets/image%20%2817%29.png)
+![Paleolithic France and Spain](../../.gitbook/assets/image%20%2822%29.png)
 
-Negtive hand prints: **Pech-Merle cave**
+#### **Pech-Merle Cave**
+
+Negtive hand prints: 
 
 ![Spotted horses and negative hand imprints, wall painting in the cave at Pech-Merle, France, ca. 23,000&#x2013; 22,000 BCE. 11&apos; 2&quot; long.](../../.gitbook/assets/image%20%286%29.png)
 
-Most animals in Paleolithic are painted in strict profile view. But the bulls from **Lascaux cave** are using composite view: horns from the front so both horns are shown, rest of the body in profile.
+#### **Lascaux Cave**
+
+Most animals in Paleolithic are painted in strict profile view. But the bulls from Lascaux cave ****are using composite view: horns from the front so both horns are shown, rest of the body in profile.
 
 ![Left wall of the Hall of Bulls, Lascaux II \(replica of the original cave, which is closed to the public\), France, original cave: c. 16,000-14,000 BCE. Largest bull 11&apos;6&apos;&apos; long.](../../.gitbook/assets/image%20%288%29.png)
 
@@ -50,9 +58,11 @@ First appearance of man \(as opposed to woman\) in the history of art. Bird-face
 
 Check out the cool guide tour: [https://archeologie.culture.fr/lascaux/en](https://archeologie.culture.fr/lascaux/en).
 
-Maybe the oldest cave found: **Chauvet Cave**. Advanced art style.
+#### **Chauvet Cave**
 
-![Aurochs, horses, and rhinoceroses, wall painting in the Chauvet Cave, Vallon-Pont- d&#x2019;Arc, France, ca. 30,000&#x2013;28,000 or ca. 15,000&#x2013;13,000 BCE. Right rhinoceros 3&apos; 4&quot; long.](../../.gitbook/assets/image%20%2813%29.png)
+MIght be the oldest cave found. Also it has the most advanced art style.
+
+![Aurochs, horses, and rhinoceroses, wall painting in the Chauvet Cave, Vallon-Pont- d&#x2019;Arc, France, ca. 30,000&#x2013;28,000 or ca. 15,000&#x2013;13,000 BCE. Right rhinoceros 3&apos; 4&quot; long.](../../.gitbook/assets/image%20%2819%29.png)
 
 ## Meolithic and Neolithic
 
@@ -66,7 +76,9 @@ The oldest known settled communities are here.
 
 ![Neolithic Anatolia and Mesopotamia](../../.gitbook/assets/screen-shot-2020-12-19-at-10.02.42-pm.png)
 
-**Göbekli Tepe:** The oldest temple discovered.
+#### **Göbekli Tepe**
+
+The oldest temple discovered.
 
 ![ Go&#x308;bekli Tepe, ca. 9000 BCE](../../.gitbook/assets/image%20%2812%29.png)
 
