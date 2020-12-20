@@ -38,7 +38,7 @@ Experts estimate this ivory figure required about 400 hours \(two months\) of sk
 
 Also important in Paleolithic art is the over 200 sites of painted caves. Some of the most famouts caves:
 
-![Paleolithic France and Spain](../../.gitbook/assets/image%20%2822%29.png)
+![Paleolithic France and Spain](../../.gitbook/assets/image%20%2824%29.png)
 
 #### **Pech-Merle Cave**
 
