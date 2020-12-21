@@ -38,7 +38,7 @@ Experts estimate this ivory figure required about 400 hours \(two months\) of sk
 
 Also important in Paleolithic art is the over 200 sites of painted caves. Some of the most famouts caves:
 
-![Paleolithic France and Spain](../../.gitbook/assets/image%20%2828%29.png)
+![Paleolithic France and Spain](../../.gitbook/assets/image%20%2833%29.png)
 
 #### **Pech-Merle Cave**
 
@@ -62,7 +62,7 @@ Check out the cool guide tour: [https://archeologie.culture.fr/lascaux/en](https
 
 MIght be the oldest cave found. Also it has the most advanced art style.
 
-![Aurochs, horses, and rhinoceroses, wall painting in the Chauvet Cave, Vallon-Pont- d&#x2019;Arc, France, ca. 30,000&#x2013;28,000 or ca. 15,000&#x2013;13,000 BCE. Right rhinoceros 3&apos; 4&quot; long.](../../.gitbook/assets/image%20%2819%29.png)
+![Aurochs, horses, and rhinoceroses, wall painting in the Chauvet Cave, Vallon-Pont- d&#x2019;Arc, France, ca. 30,000&#x2013;28,000 or ca. 15,000&#x2013;13,000 BCE. Right rhinoceros 3&apos; 4&quot; long.](../../.gitbook/assets/image%20%2820%29.png)
 
 ## Meolithic and Neolithic
 
