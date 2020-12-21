@@ -6,5 +6,7 @@ This is the [repo of my notes](https://github.com/oceanlau/noobreading) on some 
 
 {% page-ref page="art-through-the-ages-the-western-perspective/art-through-the-ages-the-western-perspective/art-in-the-stone-age.md" %}
 
+{% page-ref page="art-through-the-ages-the-western-perspective/art-through-the-ages-the-western-perspective/ancient-mesopotamia-and-persia.md" %}
+
 
 
