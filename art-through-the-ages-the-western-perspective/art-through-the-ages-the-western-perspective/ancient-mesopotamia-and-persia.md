@@ -154,7 +154,7 @@ Cyrus of Persia \(r. 559–529 BCE\) captured Babylon in 539 BCE. Cyrus, who may
 
 330 BCE - 636 CE
 
-Alexander the Great’s conquest of the Achaemenid Empire in 330 bce marked the beginning of a long period of first Greek and then Roman rule of large parts of Mesopotamia and Persia, beginning with one of Alexander’s former generals, Seleucus I \(r. 312–281 BCE\), founder of the Seleucid dynasty. In the third century CE, however, a new power rose up in Persia that challenged the Romans and sought to force them out of Asia. The new rulers called themselves Sasanians. They traced their lineage to a legendary fig- ure named Sasan, said to be a direct descendant of the Achaemenid kings. The first Sasanian king, Artaxerxes I \(r. 211–241\), founded the New Persian Empire in 224 CE after he defeated the Parthians \(another of Rome’s eastern enemies\).
+Alexander the Great’s conquest of the Achaemenid Empire in 330 bce marked the beginning of a long period of first Greek and then Roman rule of large parts of Mesopotamia and Persia, beginning with one of Alexander’s former generals, Seleucus I \(r. 312–281 BCE\), founder of the Seleucid dynasty. In the third century CE, however, a new power rose up in Persia that challenged the Romans and sought to force them out of Asia. The new rulers called themselves Sasanians. They traced their lineage to a legendary figure named Sasan, said to be a direct descendant of the Achaemenid kings. The first Sasanian king, Artaxerxes I \(r. 211–241\), founded the New Persian Empire in 224 CE after he defeated the Parthians \(another of Rome’s eastern enemies\).
 
 **Palace of Shapur I**
 
